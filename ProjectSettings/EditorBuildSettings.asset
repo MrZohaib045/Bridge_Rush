@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Levels/levelloader.unity
+    guid: 29f2f3a6acfdfd449a50c512b12b0849
+  - enabled: 0
+    path: Assets/Levels/Level 0.unity
+    guid: 936af25c39f11be4cbda1431ac6adde4
+  - enabled: 0
+    path: Assets/Levels/Level 1.unity
+    guid: de5417e6d8c13b54a9dece70ead17437
+  - enabled: 0
+    path: Assets/Levels/Level 2.unity
+    guid: 22fb8c6a5995ac34cbcad809fa34b5eb
+  - enabled: 0
+    path: Assets/Levels/Level 3.unity
+    guid: d159e977987e3274c94e515386be1b18
+  - enabled: 0
+    path: Assets/Levels/Level 4(green).unity
+    guid: 9d7d97046e1fd184e8ed1f472ab6243f
+  - enabled: 0
+    path: Assets/Levels/Level 4(yellow).unity
+    guid: c4c13f6b703599146afdde69db27ad9d
+  - enabled: 0
+    path: Assets/Levels/Level 4.unity
+    guid: 71f44f1b96335cb42987b984a98ca637
+  - enabled: 0
+    path: Assets/Levels/Level 5 (green).unity
+    guid: 0a23c084aad41a14da78bbe5de723d0c
+  - enabled: 0
+    path: Assets/Levels/Level 5.unity
+    guid: 22765e97ad6013f4aaeee9b9e761d103
+  - enabled: 0
+    path: Assets/Levels/Level 6(Yellow).unity
+    guid: 61fd70ba80157ca4798725d10f2cbe74
+  - enabled: 0
+    path: Assets/Levels/Level 6.unity
+    guid: 0354da9366eb5604bbb059b966e52709
+  - enabled: 0
+    path: Assets/Levels/Level 7(yellow0.unity
+    guid: 21cbdc3360e84d64692017f1fd84bb5b
+  - enabled: 0
+    path: Assets/Levels/Level 7.unity
+    guid: 8a331a8cc7d42c549a6ae208919a40dd
+  - enabled: 0
+    path: Assets/Levels/Level 8(green).unity
+    guid: ef912036ad74dad438a30c226cba5dc3
+  - enabled: 0
+    path: Assets/Levels/Level 8.unity
+    guid: b566afd0659a24643b661b07ae428a6d
+  - enabled: 0
+    path: Assets/Levels/Level 9(green).unity
+    guid: 6a55686def1c8b647a53b90392a6115c
+  - enabled: 0
+    path: Assets/Levels/Level 9(yellow).unity
+    guid: d8551c21c4907bb41bb87f3a4db87341
+  - enabled: 0
+    path: Assets/Levels/Level 9.unity
+    guid: 7f5cf7adad7a4cc4bb3039955f65a415
+  - enabled: 0
+    path: Assets/Levels/Level 10(yellow).unity
+    guid: d95fbf7dc132bf74eb7333441e7f1e65
+  - enabled: 0
+    path: Assets/Levels/Level 10.unity
+    guid: c83e866fb8cbaf046bb22e663efc09dd
+  - enabled: 0
+    path: Assets/Levels/Level 11(yellow).unity
+    guid: af6c4981e2ed6d44d81d722207c720da
+  - enabled: 0
+    path: Assets/Levels/Level 11.unity
+    guid: e978e25696f1e83439df99367f38e454
+  - enabled: 0
+    path: Assets/Levels/Level 12(green).unity
+    guid: 5d731ab3d1896b94b85d24f34b243f1d
+  - enabled: 0
+    path: Assets/Levels/Level 12(yellow).unity
+    guid: 39db23c252768be4b95f5fbb261dc410
+  - enabled: 0
+    path: Assets/Levels/Level 12.unity
+    guid: 20816f3a5508f4e4e8456412f778ffe6
+  m_configObjects: {}
